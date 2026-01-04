@@ -5,6 +5,18 @@ A full-stack collaborative task management application built using **React, Type
 This project allows multiple users to create, assign, manage, and track tasks in real time with proper authentication and role-based access control.
 
 ---
+## 🚀 Live Project Links
+
+- 🌐 Frontend (Vercel):  
+   https://collaborative-task-manager-czwx.vercel.app/
+
+- ⚙️ Backend API (Render):  
+  https://collaborative-task-manager-2.onrender.com/
+
+
+## 📄 Project Documentation (PDF)
+[Download PDF](./Collaborative_Task_Manager_README.pdf)
+
 
 ## 🚀 Features
 
@@ -133,3 +145,5 @@ User profile page
 Unit testing
 
 Docker support
+
+
